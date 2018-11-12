@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_menu_1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/img1"
+        style="@style/btnStyle"/>
+
+    <Button
+        android:id="@+id/btn_menu_2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/img2"
+        style="@style/btnStyle"/>
+
+    <Button
+        android:id="@+id/btn_menu_3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/img3"
+        style="@style/btnStyle"/>
+
+    <Button
+        android:id="@+id/btn_menu_4"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/img4"
+        style="@style/btnStyle"/>
+
+    <Button
+        android:id="@+id/btn_menu_5"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/img5"
+        style="@style/btnStyle"/>
+
+    <Button
+        android:id="@+id/btn_menu_menu"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@mipmap/img6"
+        style="@style/btnStyle"/>
+
+</FrameLayout>
